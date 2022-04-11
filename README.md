@@ -43,4 +43,8 @@ Hello 👋, I like Beavers! 🦫
 <!--
 this readme was based on DiaDemiEmi's own readme
 https://github.com/diademiemi
+
+The cards is using Anuraghazra's github-readme-stats 
+https://github.com/anuraghazra/github-readme-stats
 --!>
+
