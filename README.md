@@ -25,7 +25,7 @@ Hi there 👋, I'm JustTemmie!
     </p>
 
     <p href="https://github-readme-stats.vercel.app/api?username=justtemmie&bg_color=30,552586,904e95&title_color=fff&text_color=fff&border_radius=10">
-        <img align="center" src="https://github-readme-stats.vercel.app/api?username=justtemmie&bg_color=30,552586,904e95&title_color=fff&text_color=fff&border_radius=10" width="375" height="200">
+        <img align="center" src="https://github-readme-stats.vercel.app/api?username=justtemmie&bg_color=30,552586,904e95&title_color=fff&text_color=fff&border_radius=10" width="563" height="300">
     </p>
 
 </div>
