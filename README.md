@@ -24,7 +24,7 @@ Hi there 👋, I like Beavers! 🦫
     </p>
 
 <h2 align=center>
- My activity:
+🦫 My activity:
 </h2>  
 
     <p href="https://github-readme-stats.vercel.app/api/top-langs/?username=justtemmie&langs_count=8&layout=compact&title_color=f5a9b8&text_color=ffffff&bg_color=202020&border_radius=10">
