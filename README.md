@@ -20,6 +20,7 @@ Hi there 👋, I'm JustTemmie!
             </a>
 --!>
     </p>
+    <h2> \n </h2>
 </div>
 
 <h2 align=center> </h2>  
