@@ -23,8 +23,8 @@ Hi there 👋, I'm JustTemmie!
             </a>
 --!>
     </p>
-    <p href="https://github-readme-stats.vercel.app/api/top-langs/?username=justtemmie&langs_count=6&exclude_repo=cfg,Hide-Discord-Notices,android_kernel_samsung_gta8wifi&layout=compact&title_color=f5a9b8&text_color=ffffff&bg_color=202020&border_radius=10">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=justtemmie&langs_count=6&exclude_repo=cfg,Hide-Discord-Notices,android_kernel_samsung_gta8wifi&layout=compact&title_color=f5a9b8&text_color=ffffff&bg_color=202020&border_radius=10" width="375" height="200">
+    <p href="https://github-readme-stats.vercel.app/api/top-langs/?username=justtemmie&langs_count=8&exclude_repo=cfg,Hide-Discord-Notices,android_kernel_samsung_gta8wifi&layout=compact&title_color=f5a9b8&text_color=ffffff&bg_color=202020&border_radius=10">
+        <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=justtemmie&langs_count=8&exclude_repo=cfg,Hide-Discord-Notices,android_kernel_samsung_gta8wifi&layout=compact&title_color=f5a9b8&text_color=ffffff&bg_color=202020&border_radius=10" width="375" height="200">
     </p>
     <p href="https://github-readme-stats.vercel.app/api/wakatime?username=willianrod">
     </p>
