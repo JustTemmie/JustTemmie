@@ -1,9 +1,9 @@
-![99's Github Stats](https://github-readme-stats.vercel.app/api?username=justtemmie&bg_color=30,552586,904e95&title_color=fff&text_color=fff)
+
 
 <h1 align=center>
 Hi there 👋, I'm JustTemmie!
 </h1>
-
+![99's Github Stats](https://github-readme-stats.vercel.app/api?username=justtemmie&bg_color=30,552586,904e95&title_color=fff&text_color=fff)
 <p align=center style="line-height:1;font-size:40px;">🪧 Name: 🦫 Temmie 🦫 </p>
 <p align=center style="line-height:1;font-size:40px;">🗣️ Pronouns: She/Her ❤️</p>
 <p align=center style="line-height:1;font-size:40px;">📚 Languages: English 🇬🇧 and Norwegian 🇳🇴</p>
