@@ -1,5 +1,5 @@
 <h1 align=center>
-Hi there 👋, I'm JustTemmie!
+Hi there 👋, I like Beavers! 🦫
 </h1>
 <p align=center style="line-height:1;font-size:40px;">🪧 Name: 🦫 Temmie 🦫 </p>
 <p align=center style="line-height:1;font-size:40px;">🗣️ Pronouns: She/Her ❤️</p>
@@ -7,7 +7,9 @@ Hi there 👋, I'm JustTemmie!
 <p align=center style="line-height:1;font-size:40px;">⚡ Fun fact: Windows is poo poo, linux is the future 🐧</p>
  </p>
 
-<h2 align=center> 📥 Contact me on Discord:</h2>  
+<h2 align=center>
+📥 Contact me on Discord:
+</h2>  
 <div align=center style="text-decoration: none;">
     <p>
             <a href="https://discordapp.com/users/368423564229083137" style="text-decoration: none;">
@@ -20,8 +22,11 @@ Hi there 👋, I'm JustTemmie!
             </a>
 --!>
     </p>
-<h2 align=center> </h2>  
-<div align=center style="text-decoration: none;">
+
+<h2 align=center>
+ My activity:
+</h2>  
+
     <p href="https://github-readme-stats.vercel.app/api/top-langs/?username=justtemmie&langs_count=8&layout=compact&title_color=f5a9b8&text_color=ffffff&bg_color=202020&border_radius=10">
         <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=justtemmie&langs_count=8&layout=compact&title_color=f5a9b8&text_color=ffffff&bg_color=202020&border_radius=10" width="480" height="280">
     </p>
