@@ -21,11 +21,11 @@ Hi there 👋, I'm JustTemmie!
 --!>
     </p>
     <p href="https://github-readme-stats.vercel.app/api/top-langs/?username=justtemmie&langs_count=8&layout=compact&title_color=f5a9b8&text_color=ffffff&bg_color=202020&border_radius=10">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=justtemmie&langs_count=8&layout=compact&title_color=f5a9b8&text_color=ffffff&bg_color=202020&border_radius=10" width="375" height="200">
+        <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=justtemmie&langs_count=8&layout=compact&title_color=f5a9b8&text_color=ffffff&bg_color=202020&border_radius=10" width="525" height="280">
     </p>
 
     <p href="https://github-readme-stats.vercel.app/api?username=justtemmie&bg_color=30,552586,904e95&title_color=fff&text_color=fff&border_radius=10">
-        <img align="center" src="https://github-readme-stats.vercel.app/api?username=justtemmie&bg_color=30,552586,904e95&title_color=fff&text_color=fff&border_radius=10" width="563" height="300">
+        <img align="center" src="https://github-readme-stats.vercel.app/api?username=justtemmie&bg_color=30,552586,904e95&title_color=fff&text_color=fff&border_radius=10" width="525" height="280">
     </p>
 
 </div>
