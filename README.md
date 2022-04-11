@@ -25,7 +25,6 @@ Hi there 👋, I'm JustTemmie!
     <p href="https://github-readme-stats.vercel.app/api/top-langs/?username=justtemmie&langs_count=8&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&border_radius=10">
         <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=justtemmie&langs_count=8&layout=compact&tbg_color=30,e96443,904e95&title_color=fff&text_color=fff&border_radius=10" width="375" height="200">
     </p>
-
- ![99's Github Stats](https://github-readme-stats.vercel.app/api?username=Eldrick99&bg_color=30,552586,904e95&title_color=fff&text_color=fff)
 </div>
 <hr>
+![99's Github Stats](https://github-readme-stats.vercel.app/api?username=Eldrick99&bg_color=30,552586,904e95&title_color=fff&text_color=fff)
