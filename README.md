@@ -1,4 +1,4 @@
-![99's Github Stats](https://github-readme-stats.vercel.app/api?username=Eldrick99&bg_color=30,552586,904e95&title_color=fff&text_color=fff)
+![99's Github Stats](https://github-readme-stats.vercel.app/api?username=justtemmie&bg_color=30,552586,904e95&title_color=fff&text_color=fff)
 
 <h1 align=center>
 Hi there 👋, I'm JustTemmie!
