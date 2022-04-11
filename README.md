@@ -1,6 +1,6 @@
 
 <h1 align=center>
-Hi there 👋😎, I'm JustTemmie!
+Hi there 👋, I'm JustTemmie!
 </h1>
 
 <p align=center style="line-height:1;font-size:40px;">🪧 Name: 🦫 Temmie 🦫 </p>
@@ -10,7 +10,7 @@ Hi there 👋😎, I'm JustTemmie!
 <p align=center style="line-height:1;font-size:40px;">⚡ Fun fact: Windows is poo poo, linux is the future 🐧</p>
  </p>
 
-<h2 align=center> 📥 Where to contact me:</h2>  
+<h2 align=center> 📥 Contact me on Discord:</h2>  
 <div align=center style="text-decoration: none;">
     <p>
             <a href="https://discordapp.com/users/368423564229083137" style="text-decoration: none;">
