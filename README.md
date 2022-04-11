@@ -28,6 +28,7 @@ Hi there 👋, I'm JustTemmie!
 
     <p href="https://github-readme-stats.vercel.app/api/top-langs/?username=justtemmie&langs_count=8">
          <img align="center" src="https://github.com/anuraghazra/github-readme-stats" width="375" height="200">
+    </p>
     [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod)](https://github.com/anuraghazra/github-readme-stats)
     <p href="https://github-readme-stats.vercel.app/api/wakatime?username=justtemmie">
         <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=justtemmie" width="375" height="200">
