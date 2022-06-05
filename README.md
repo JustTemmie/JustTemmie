@@ -33,6 +33,9 @@ Hello 👋 I like Beavers! 🦫
     </p>
 
 
+<h2 align=center>
+My coding activity over the last week:
+</h2>  
 <!--START_SECTION:waka-->
 
 ```text
