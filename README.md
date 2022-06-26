@@ -39,10 +39,10 @@ My coding activity over the last week:
 <!--START_SECTION:waka-->
 
 ```text
-GAP        2 hrs 9 mins    ████████████░░░░░░░░░░░░░   48.62 %
-Python     2 hrs 4 mins    ███████████▓░░░░░░░░░░░░░   46.67 %
-GDScript   8 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.20 %
-JSON       2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.02 %
+GAP        2 hrs 16 mins   ████████████▓░░░░░░░░░░░░   50.06 %
+Python     2 hrs 3 mins    ███████████▒░░░░░░░░░░░░░   45.46 %
+GDScript   8 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.13 %
+JSON       2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.87 %
 Other      1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.42 %
 ```
 
