@@ -1,3 +1,4 @@
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=JustTemmie" alt="Profile Views" /> </p>  
 <h1 align=center>
 Hello 👋 I like Beavers! 🦫
 </h1>
