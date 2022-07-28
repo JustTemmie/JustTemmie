@@ -14,7 +14,7 @@ Hello 👋 I like Beavers! 🦫
 </h2>  
 <div align=center style="text-decoration: none;">
     <p>
-            <a href="https://discordapp.com/users/368423564229083137" style="text-decoration: none;">
+            <a href="https://discordapp.com/users/725539745572323409" style="text-decoration: none;">
                 <img src="https://img.shields.io/badge/-Discord-2d2d2d?style=for-the-badge&logo=Discord" alt="Discord">
             </a>
        
