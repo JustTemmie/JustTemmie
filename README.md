@@ -2,7 +2,6 @@
 <h1 align=center>
 Hello 👋 I like Beavers! 🦫
 </h1>
-<p align=center style="line-height:1;font-size:40px;">🪧 Name: 🦫 Temmie 🦫 </p>
 <p align=center style="line-height:1;font-size:40px;">🗣️ Pronouns: She/Her ❤️</p>
 <p align=center style="line-height:1;font-size:40px;">📚 I Speak: English 🇬🇧 and Norwegian 🇳🇴</p>
 <p align=center style="line-height:1;font-size:40px;">🖥️ Experienced In: Python 🐍 and Godot 🤖 </p>
