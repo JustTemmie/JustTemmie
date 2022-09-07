@@ -39,11 +39,11 @@ My coding activity over the last week:
 <!--START_SECTION:waka-->
 
 ```text
-Python     3 hrs 20 mins   █████████████████████▓░░░   87.20 %
-Markdown   12 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.39 %
-Bash       5 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.56 %
-Text       4 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.09 %
-Other      4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.92 %
+Python     4 hrs 46 mins   █████████████████████░░░░   84.36 %
+JSON       15 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.69 %
+Markdown   12 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.66 %
+Text       11 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.37 %
+Other      6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.97 %
 ```
 
 <!--END_SECTION:waka-->
