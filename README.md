@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm Temmie, and I like Beavers, Gaming, and Programming. I currently know Python, and a bit of JavaScript.
+I'm Temmie, and I like Beavers, Gaming, and Programming. I currently know Python, Godot, and a bit of JavaScript.
 
 ## Contact me
 * Discord: `Temmie#6898`
