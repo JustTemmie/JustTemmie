@@ -8,12 +8,12 @@ I'm Temmie, and I like Beavers, Gaming, and Programming. I currently know Python
 <!--START_SECTION:waka-->
 
 ```text
-Python       1 hr 52 mins    ███████████░░░░░░░░░░░░░░   43.35 %
-JavaScript   1 hr 34 mins    █████████░░░░░░░░░░░░░░░░   36.51 %
-CSS          16 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.50 %
-JSON         16 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.35 %
-HTML         16 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.23 %
-Other        2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.87 %
+Python       2 hrs 2 mins    ███████████▒░░░░░░░░░░░░░   45.44 %
+JavaScript   1 hr 34 mins    ████████▓░░░░░░░░░░░░░░░░   35.18 %
+CSS          16 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.27 %
+JSON         16 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.12 %
+HTML         16 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.98 %
+Other        2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.83 %
 ```
 
 <!--END_SECTION:waka-->
