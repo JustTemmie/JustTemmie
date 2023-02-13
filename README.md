@@ -2,7 +2,7 @@
 
 <p>My name is Temmie and I like beavers</p>
 
-<h2 align="left">I code with</h2>
+<h2 align="left">I work with</h2>
 
 <div align=left>
   <img src="https://skillicons.dev/icons?i=py,godot,javascript,css,html,linux,git,blender,bash,vscode,&theme=dark">
