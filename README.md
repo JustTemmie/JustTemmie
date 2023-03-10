@@ -1,6 +1,6 @@
 <h1 align="left">Hi 👋</h1>
 
-<p>My name is Temmie and I like beavers</p>
+<p>I tend to go by Temmie, and I like beavers</p>
 
 <h2 align="left">I work with</h2>
 
