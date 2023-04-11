@@ -9,9 +9,9 @@
 
 <h2 align="left">📊 GitHub Stats</h2>
 <div align=left>
-  ![](https://github-readme-stats.vercel.app/api?username=JustTemmie&theme=nord&hide_border=false&include_all_commits=true&count_private=true) 
-  ![](https://github-readme-streak-stats.herokuapp.com/?user=JustTemmie&theme=nord&hide_border=false)
-  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=JustTemmie&theme=nord&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+  <img src="https://github-readme-stats.vercel.app/api?username=JustTemmie&theme=nord&hide_border=false&include_all_commits=true&count_private=true">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JustTemmie&theme=nord&hide_border=false">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JustTemmie&theme=nord&hide_border=false&include_all_commits=true&count_private=true&layout=compact">
 </div>
 
 <h2 align="left">My past week of activity</h2>
