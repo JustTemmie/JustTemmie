@@ -4,7 +4,7 @@
 
 <h2 align="left">I work with</h2>
 <div align=left>
-  <img src="https://skillicons.dev/icons?i=py,godot,javascript,css,html,linux,git,blender,&theme=dark">
+  <img src="https://skillicons.dev/icons?i=py,linux,godot,blender,git,javascript,css,html,&theme=dark">
 </div>
 
 <h2 align="left">📊 GitHub Stats</h2>
