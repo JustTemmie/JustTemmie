@@ -1,6 +1,7 @@
 <h1 align="left">Hi 👋</h1>
 
 <p>I tend to go by Temmie, and I like beavers</p>
+<p>This profile mainly just has projects i'm at least kinda proud of, if you want to look at more stuff i've made you can <a href=https://github.com/orgs/JustTemmiesRandomProjects>click here</a>
 
 <h2 align="left">I work with</h2>
 <div align=left>
