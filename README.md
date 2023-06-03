@@ -16,11 +16,12 @@
 <h2 align="left">My past week of activity</h2>
 <!--START_SECTION:waka-->
 
-```text
-Python   1 hr 2 mins     █████████████████▒░░░░░░░   69.26 %
-JSON     26 mins         ███████▒░░░░░░░░░░░░░░░░░   29.50 %
-Text     0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.02 %
-Other    0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 %
+```txt
+JSON         26 mins         █████████░░░░░░░░░░░░░░░░   35.70 %
+Python       22 mins         ███████▒░░░░░░░░░░░░░░░░░   29.94 %
+mcfunction   14 mins         ████▓░░░░░░░░░░░░░░░░░░░░   18.90 %
+Other        11 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   15.29 %
+GDScript     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 %
 ```
 
 <!--END_SECTION:waka-->
