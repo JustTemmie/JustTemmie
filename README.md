@@ -13,15 +13,3 @@
   <img src="https://github-readme-stats.vercel.app/api?username=JustTemmie&theme=nord&hide_border=false&include_all_commits=true&count_private=true"><br>
 </div>
 
-<h2 align="left">My past week of activity</h2>
-<!--START_SECTION:waka-->
-
-```txt
-Python       1 hr 40 mins    ████████████▒░░░░░░░░░░░░   49.94 %
-Docker       30 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   15.29 %
-YAML         24 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.29 %
-Bash         20 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.11 %
-Text         14 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.36 %
-```
-
-<!--END_SECTION:waka-->
