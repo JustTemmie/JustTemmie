@@ -4,8 +4,8 @@
 <p>I have a secondary <a href=https://github.com/orgs/JustTemmiesRandomProjects>github page</a> for anything i don't want to clutter my main profile with, you might find something nifty on it!</p>
 
 
-<h2 align="left">📊 GitHub Stats</h2
-<div align=left, style="display: flex; flex-direction: row;">
+<h2 align="left">📊 GitHub Stats</h2>
+<div align=left>
   <img src="https://raw.githubusercontent.com/JustTemmiesRandomProjects/readme-stats/master/generated/overview.svg#gh-dark-mode-only">
   <img src="https://raw.githubusercontent.com/JustTemmiesRandomProjects/readme-stats/master/generated/languages.svg#gh-dark-mode-only">
 </div>
