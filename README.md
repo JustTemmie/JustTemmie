@@ -5,7 +5,7 @@
 
 
 <h2 align="left">📊 GitHub Stats</h2
-<div align=left>
+<div align=left, style="display: flex; flex-direction: row;">
   <img src="https://raw.githubusercontent.com/JustTemmiesRandomProjects/readme-stats/master/generated/overview.svg#gh-dark-mode-only">
   <img src="https://raw.githubusercontent.com/JustTemmiesRandomProjects/readme-stats/master/generated/languages.svg#gh-dark-mode-only">
 </div>
